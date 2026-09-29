@@ -1,0 +1,6 @@
+{
+  "name": "Gold Monte Carlo Simulator",
+  "description": "A sophisticated financial dashboard that uses Gemini-powered search data and Monte Carlo simulations to project Gold prices for January 2027.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
